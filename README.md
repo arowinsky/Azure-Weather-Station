@@ -1,4 +1,15 @@
-## azure-raspberry-pi
-You can run only on RaspberryPi
-### `npm install`
-### `sudo nodejs project.js`
+# azure-raspberry-pi
+Application for Raspberry Pi
+
+## Requirements
+You must have Raspberry Pi with installed Node.js
+
+## In CLI
+Install dependencies:
+```bash
+npm install
+```
+Run appliaction:
+```bash
+sudo nodejs project.js
+```
