@@ -1,4 +1,4 @@
-# azure-raspberry-pi
+# Azure-Weather-Station
 Application for Raspberry Pi
 
 ## Requirements
